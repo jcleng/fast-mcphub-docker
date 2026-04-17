@@ -1,1 +1,3 @@
 基于官方镜像`samanhappy/mcphub`全局安装需要运行mcp服务, 安装之后启动服务即可立即启动
+
+https://github.com/jcleng/action-sync-images/actions/runs/24497234813/job/71594944913
