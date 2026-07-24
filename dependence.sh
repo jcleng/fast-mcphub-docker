@@ -9,3 +9,4 @@ npm install -g @upstash/context7-mcp
 npm install -g @modelcontextprotocol/server-sequential-thinking
 npm install -g @modelcontextprotocol/server-filesystem
 npm install -g @negokaz/excel-mcp-server
+npm install -g @dbx-app/mcp-server
