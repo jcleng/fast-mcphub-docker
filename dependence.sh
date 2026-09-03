@@ -11,3 +11,4 @@ npm install -g @modelcontextprotocol/server-filesystem
 npm install -g @negokaz/excel-mcp-server
 npm install -g @dbx-app/mcp-server
 npm install -g dingtalk-mcp@latest
+npm install -g mcp-local-rag
